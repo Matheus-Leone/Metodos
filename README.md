@@ -52,4 +52,4 @@ Após abrir o pacote com os 3 Arquivos para o programa executar, entre no Arquiv
 
 ## ✒️ Autores
 
-* **Matheus Leone** - *Trabalho Inicial* - Produto
+* **Matheus Leone** - *Trabalho Inicial* - Métodos
